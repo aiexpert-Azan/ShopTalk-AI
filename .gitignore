@@ -1,0 +1,17 @@
+# Azure Functions secrets
+backend/local.settings.json
+backend/.python_packages/
+backend/__pycache__/
+backend/.venv/
+
+# React dependencies and builds
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
