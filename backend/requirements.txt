@@ -1,2 +1,11 @@
-azure-functions
-openai>=1.50.0
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+motor
+openai
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+email-validator
+python-dotenv
