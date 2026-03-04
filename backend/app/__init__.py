@@ -1,0 +1,1 @@
+# ShopTalk-AI FastAPI Backend
